@@ -1,3 +1,7 @@
+//npx create-react-app project-manager
+//cd project-manager
+//npm start
+
 import React from 'react';
 
 function ProjectCard({ project, onView, onEdit, onDelete }) {
